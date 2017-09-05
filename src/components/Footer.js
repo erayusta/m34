@@ -4,7 +4,8 @@ import { Page, Row } from "./styled"
 const Footer = props => (
   <footer>
     <Page>
-      <Row height={5}>This is a sample footer.</Row>
+      <Row height={5}>This is a sample footer. Comolokko</Row>
+
     </Page>
   </footer>
 )
