@@ -1,0 +1,2 @@
+webpackJsonp([0xc95cff27e218],{"./node_modules/json-loader/index.js!./.cache/json/hakkinda.json":function(n,o){n.exports={pathContext:{id:"PAGE_2"}}}});
+//# sourceMappingURL=path---hakkinda-eeed99cde79ae62abe37.js.map

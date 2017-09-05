@@ -1,0 +1,44 @@
+[
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "hakkinda.json",
+        "path": "/hakkinda/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "iletisim.json",
+        "path": "/iletisim/"
+    },
+    {
+        "componentChunkName": "component---src-templates-page-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "anasayfa-burasi-bro.json",
+        "path": "/anasayfa-burasi-bro/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "post-deneme-icerik.json",
+        "path": "/post/deneme-icerik/"
+    },
+    {
+        "componentChunkName": "component---src-templates-post-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "post-ilk-blog-gonderisi.json",
+        "path": "/post/ilk-blog-gonderisi/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    }
+]

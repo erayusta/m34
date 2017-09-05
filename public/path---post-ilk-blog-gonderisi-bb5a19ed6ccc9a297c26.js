@@ -1,0 +1,2 @@
+webpackJsonp([48042567675655],{"./node_modules/json-loader/index.js!./.cache/json/post-ilk-blog-gonderisi.json":function(o,n){o.exports={pathContext:{id:"POST_4"}}}});
+//# sourceMappingURL=path---post-ilk-blog-gonderisi-bb5a19ed6ccc9a297c26.js.map
