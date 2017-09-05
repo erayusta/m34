@@ -30,6 +30,7 @@ class Home extends Component {
           </Row>
           <Row>
             <H1 dangerouslySetInnerHTML={{ __html: currentPage.title }} />
+            <p>Bu deneme içeriktir</p>
             <div dangerouslySetInnerHTML={{ __html: currentPage.content }} />
             <PostsListSearchable propsData={this.props.data} />
           </Row>
